@@ -9,13 +9,13 @@ function Menu() {
       style={{ marginTop: '1rem', padding: '1rem', backgroundColor: '#c6c6c6' }}
     >
       <li>
-        <Link to="/">Home</Link>
+        <Link to="/">SharedHome</Link>
       </li>
       <li>
-        <Link to="/counter">Counter</Link>
+        <Link to="/counter">SharedCounter</Link>
       </li>
       <li>
-        <Link to="/about">About</Link>
+        <Link to="/about">SharedAbout</Link>
       </li>
     </ul>
   );
